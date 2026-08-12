@@ -34,25 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArjunMali2006&show_icons=true&theme=default&count_private=true&cache_seconds=1800" alt="Arjun's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=ArjunMali2006&theme=default" alt="Arjun's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunMali2006&layout=compact&theme=default&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
-
-<!--
-  If these still show "Failed to retrieve contributions", it's a temporary
-  rate-limit on the shared public instance — just wait a few minutes and
-  refresh your GitHub profile page, no need to edit this file.
--->
-
----
-
 ### 📫 Connect With Me
 
 <!-- Replace the # below with your actual profile links -->
