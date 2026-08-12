@@ -34,11 +34,17 @@
 
 ---
 
+### 📌 Pinned Projects
+
+> Pin your best repositories from your GitHub profile settings — they'll display automatically below this section on your profile page.
+
+---
+
 ### 📫 Connect With Me
 
 <!-- Replace the # below with your actual profile links -->
-[![LinkedIn](https://www.linkedin.com/in/arjun-mali-6b923931b/)](#)
-[![Email](arjunmali2006@gmail.com)](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arjun-mali-6b923931b/)
+- 📧 [Email](arjunmali2006@gmail.com)
 
 ---
 
