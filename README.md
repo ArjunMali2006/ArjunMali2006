@@ -34,10 +34,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-> Pin your best repositories from your GitHub profile settings — they'll display automatically below this section on your profile page.
-
 ---
 
 ### 📫 Connect With Me
